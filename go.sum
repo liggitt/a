@@ -1,2 +1,4 @@
 github.com/liggitt/b v1.0.0 h1:b2PD0maWheor82stUPtMmVt15kSIal//bKvvXGW6m/c=
 github.com/liggitt/b v1.0.0/go.mod h1:ELIy9WS4GN+KTnXJ4EeReLowuaddQ7tnfsXV6BxuPiw=
+github.com/liggitt/c v1.0.0 h1:jLi0imaDl5DUIPX63+zI6vB5w2UF6wDa8F7bLMBDYko=
+github.com/liggitt/c v1.0.0/go.mod h1:F/PN0EPwqEcaXbrAc1E8sqvkXqQjvWH2whyWJoSkgA0=
